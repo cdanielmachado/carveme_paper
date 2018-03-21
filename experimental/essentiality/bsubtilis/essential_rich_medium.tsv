@@ -1,0 +1,767 @@
+id	name	phenotype	bigg_id
+BG10783	asd	essential	BSU16750
+BG10785	dapA	essential	BSU16770
+BG10944	glyA	essential	BSU36900
+BG10948	glmS	essential	BSU01780
+BG10950	alr	essential	
+BG11207	dapB	essential	BSU22490
+BG13301	ykuQ	essential	
+BG13302	ykuR	essential	
+BG14048	dapF	essential	BSU32170
+BG11964	racE	essential	BSU28390
+BG11840	metK	essential	BSU30550
+BG10091	yaaO	non-essential	BSU00270
+BG10136	cysK	non-essential	BSU00730
+BG10155	cysE	non-essential	BSU00930
+BG10195	carA	non-essential	BSU11230
+BG10196	carB	non-essential	BSU11240
+BG10212	speA	non-essential	BSU14630
+BG10284	aroF	non-essential	BSU22710
+BG10285	aroB	non-essential	BSU22700
+BG10286	aroH	non-essential	BSU22690
+BG10287	trpE	non-essential	BSU22680
+BG10288	trpD	non-essential	BSU22670
+BG10289	trpF	non-essential	BSU22650
+BG10290	trpB	non-essential	BSU22640
+BG10291	trpA	non-essential	BSU22630
+BG10292	hisC	non-essential	BSU22620
+BG10293	tyrA	non-essential	BSU22610
+BG10294	aroE	non-essential	
+BG10300	ansA	non-essential	BSU23580
+BG10301	ansB	non-essential	BSU23570
+BG10340	hemA	non-essential	BSU28170
+BG10350	lysC	non-essential	BSU28470
+BG10375	aroA	non-essential	BSU22600
+BG10425	glnA	non-essential	BSU17460
+BG10457	aroK	non-essential	BSU03150
+BG10460	hom	non-essential	BSU32260
+BG10461	thrC	non-essential	BSU32250
+BG10468	ald	non-essential	BSU31930
+BG10471	alsS	non-essential	BSU36010
+BG10509	serA	non-essential	BSU23070
+BG10538	aroC	non-essential	BSU23080
+BG10546	ywaA	non-essential	
+BG10621	rocG	non-essential	BSU37790
+BG10629	ywfE	non-essential	
+BG10667	hutH	non-essential	BSU39350
+BG10668	hutU	non-essential	BSU39360
+BG10670	ilvB	non-essential	BSU28310
+BG10672	ilvC	non-essential	BSU28290
+BG10673	ilvA	non-essential	BSU21770
+BG10675	leuB	non-essential	BSU28270
+BG10715	pyrAA	non-essential	BSU15510
+BG10716	pyrAB	non-essential	BSU15520
+BG10722	rocD	non-essential	BSU40340
+BG10736	rsbX	non-essential	BSU04740
+BG10784	dapG	non-essential	BSU16760
+BG10811	gltA	non-essential	BSU18450
+BG10841	proG	non-essential	BSU12910
+BG10842	dppA	non-essential	BSU12920
+BG10932	rocF	non-essential	
+BG10963	proB	non-essential	BSU13120
+BG10964	proA	non-essential	BSU13130
+BG11038	trpC	non-essential	BSU22660
+BG11049	proH	non-essential	BSU18480
+BG11096	nasD	non-essential	BSU03300
+BG11097	nasE	non-essential	BSU03290
+BG11099	hutG	non-essential	BSU39380
+BG11100	hutI	non-essential	BSU39370
+BG11116	asnH	non-essential	BSU39920
+BG11117	mmsA	non-essential	BSU39760
+BG11435	gudB	non-essential	BSU22960
+BG11522	aroD	non-essential	BSU25660
+BG11532	ilvD	non-essential	BSU21870
+BG11627	msrA	non-essential	BSU21690
+BG11628	yppQ	non-essential	
+BG11723	bcd	non-essential	BSU24080
+BG11744	proI	non-essential	BSU23800
+BG11747	dsdA	non-essential	BSU23770
+BG11831	asnB	non-essential	BSU30540
+BG11838	ggt	non-essential	BSU18410
+BG11930	cysH	non-essential	BSU15570
+BG11948	leuA	non-essential	BSU28280
+BG11949	leuC	non-essential	BSU28260
+BG11950	leuD	non-essential	BSU28250
+BG11981	ureA	non-essential	BSU36660
+BG11982	ureB	non-essential	BSU36650
+BG11983	ureC	non-essential	BSU36640
+BG12011	ycgM	non-essential	
+BG12033	yclM	non-essential	BSU03790
+BG12043	gabT	non-essential	BSU03900
+BG12044	gabD	non-essential	BSU03910
+BG12240	asnO	non-essential	BSU10790
+BG12290	yrhA	non-essential	
+BG12291	yrhB	non-essential	
+BG12306	yrpC	non-essential	BSU26810
+BG12362	alaT	non-essential	
+BG12460	speE	non-essential	BSU37500
+BG12461	speB	non-essential	BSU37490
+BG12597	hisA	non-essential	BSU34880
+BG12601	hisG	non-essential	BSU34920
+BG12602	hisH	non-essential	BSU34890
+BG12610	kbl	non-essential	BSU17000
+BG12658	proJ	non-essential	BSU18470
+BG12673	serC	non-essential	BSU10020
+BG12685	tdh	non-essential	BSU16990
+BG12749	ybgE	non-essential	
+BG12753	ybgJ	non-essential	
+BG12914	yfjR	non-essential	BSU07990
+BG13147	goxB	non-essential	
+BG13162	yjcI	non-essential	
+BG13163	yjcJ	non-essential	
+BG13278	ykrS	non-essential	
+BG13279	ykrT	non-essential	
+BG13281	ykrV	non-essential	
+BG13282	ykrW	non-essential	
+BG13283	ykrX	non-essential	
+BG13284	ykrY	non-essential	
+BG13285	ykrZ	non-essential	
+BG13350	ylaM	non-essential	
+BG13371	ylmB	non-essential	
+BG13379	cysC	non-essential	BSU15600
+BG13397	sdaAB	non-essential	BSU15850
+BG13398	sdaAA	non-essential	BSU15860
+BG13542	kamA	non-essential	BSU19690
+BG13800	mtn	non-essential	
+BG13832	speD	non-essential	BSU29010
+BG10906	bltD	non-essential	BSU26600
+BG11933	def	non-essential	
+BG13931	hisJ	non-essential	BSU29620
+BG10109	ispE	essential	BSU00460
+BG10403	yvyH	essential	
+BG11366	gpsA	essential	BSU22830
+BG11715	dxs	essential	BSU24270
+BG12704	ybbT	essential	
+BG13409	dxr	essential	BSU16550
+BG10207	pdhA	essential	BSU14580
+BG10273	odhB	essential	BSU19360
+BG10412	fbaA	essential	BSU37120
+BG10897	tpiA	essential	BSU33920
+BG11062	pgk	essential	BSU33930
+BG11247	tkt	essential	BSU17890
+BG12644	pfkA	essential	BSU29190
+BG13328	ykwC	non-essential	BSU13960
+BG10043	maa	non-essential	BSU40850
+BG10177	gutB	non-essential	BSU06150
+BG10187	glpK	non-essential	BSU09290
+BG10188	glpD	non-essential	BSU09300
+BG10189	yhxB	non-essential	
+BG10208	pdhB	non-essential	BSU14590
+BG10209	pdhC	non-essential	BSU14600
+BG10210	pdhD	non-essential	BSU14610
+BG10272	odhA	non-essential	BSU19370
+BG10351	sdhC	non-essential	BSU28450
+BG10352	sdhA	non-essential	BSU28440
+BG10353	sdhB	non-essential	BSU28430
+BG10367	acuC	non-essential	BSU29710
+BG10368	acuB	non-essential	BSU29700
+BG10369	acuA	non-essential	BSU29690
+BG10370	acsA	non-essential	BSU29680
+BG10384	citG	non-essential	
+BG10413	ywjH	non-essential	BSU37110
+BG10454	pmi	non-essential	
+BG10472	alsD	non-essential	BSU36000
+BG10473	amyE	non-essential	BSU03040
+BG10478	citB	non-essential	BSU18000
+BG10545	gdh	non-essential	BSU03930
+BG10581	galK	non-essential	BSU38200
+BG10582	galT	non-essential	BSU38190
+BG10596	sacA	non-essential	BSU38040
+BG10634	pta	non-essential	BSU37660
+BG10649	gntK	non-essential	BSU40060
+BG10669	idh	non-essential	
+BG10806	xylA	non-essential	BSU17600
+BG10807	xylB	non-essential	BSU17610
+BG10813	ackA	non-essential	BSU29470
+BG10827	gapA	non-essential	BSU33940
+BG10854	citA	non-essential	BSU09440
+BG10855	citZ	non-essential	BSU29140
+BG10856	icd	non-essential	BSU29130
+BG10907	glgB	non-essential	BSU30980
+BG10908	glgC	non-essential	BSU30970
+BG10909	glgD	non-essential	BSU30960
+BG10910	glgA	non-essential	BSU30950
+BG10911	glgP	non-essential	BSU30940
+BG10926	pksG	non-essential	BSU17150
+BG10935	bglH	non-essential	BSU39260
+BG10942	ywlF	non-essential	BSU36920
+BG11010	treA	non-essential	BSU07810
+BG11103	yxaA	non-essential	
+BG11109	yxaG	non-essential	
+BG11118	iolB	non-essential	BSU39750
+BG11119	iolC	non-essential	BSU39740
+BG11120	iolD	non-essential	BSU39730
+BG11121	iolE	non-essential	BSU39720
+BG11125	fbaB	non-essential	
+BG11153	scoA	non-essential	
+BG11154	scoB	non-essential	
+BG11158	ycbC	non-essential	BSU02460
+BG11161	ycbF	non-essential	
+BG11163	ycbH	non-essential	
+BG11198	phy	non-essential	BSU19800
+BG11203	bglA	non-essential	BSU40110
+BG11211	mgsA	non-essential	BSU22480
+BG11216	mtlD	non-essential	BSU03990
+BG11222	ycsA	non-essential	BSU04000
+BG11322	mmgD	non-essential	BSU24140
+BG11323	mmgE	non-essential	BSU24130
+BG11355	aldX	non-essential	BSU39860
+BG11363	iolS	non-essential	BSU39780
+BG11386	mdh	non-essential	BSU29120
+BG11396	kdgA	non-essential	BSU22100
+BG11397	kdgK	non-essential	BSU22110
+BG11400	kduD	non-essential	BSU22140
+BG11401	kduI	non-essential	BSU22130
+BG11478	fbp	non-essential	BSU40190
+BG11601	yhcW	non-essential	
+BG11685	glcK	non-essential	BSU24850
+BG11720	yqiQ	non-essential	
+BG11722	ptb	non-essential	BSU24090
+BG11724	buk	non-essential	BSU24070
+BG11733	yqjD	non-essential	BSU23920
+BG11738	yqjI	non-essential	
+BG11739	zwf	non-essential	BSU23850
+BG11762	nudF	non-essential	BSU23610
+BG11818	yktC	non-essential	
+BG11837	galE	non-essential	BSU38860
+BG11839	malA	non-essential	BSU08180
+BG11841	pckA	non-essential	BSU30560
+BG11900	abfA	non-essential	BSU28720
+BG11902	adhB	non-essential	BSU26970
+BG11903	aldY	non-essential	BSU38830
+BG11904	araA	non-essential	BSU28800
+BG11905	araB	non-essential	BSU28790
+BG11906	araD	non-essential	BSU28780
+BG12063	ydaP	non-essential	BSU04340
+BG12195	ydhR	non-essential	
+BG12320	ysfC	non-essential	
+BG12366	pgi	non-essential	BSU31350
+BG12385	yulC	non-essential	
+BG12387	yulE	non-essential	
+BG12420	yvdK	non-essential	
+BG12421	malL	non-essential	
+BG12422	pgcM	non-essential	
+BG12439	lacA	non-essential	
+BG12558	acoA	non-essential	BSU08060
+BG12559	acoB	non-essential	BSU08070
+BG12560	acoC	non-essential	BSU08080
+BG12561	acoL	non-essential	BSU08090
+BG12562	adhA	non-essential	BSU27010
+BG12582	dhaS	non-essential	BSU19310
+BG12588	fruK	non-essential	BSU14390
+BG12592	gapB	non-essential	BSU29020
+BG12615	melA	non-essential	BSU30300
+BG12630	nagA	non-essential	BSU35010
+BG12631	nagB	non-essential	
+BG12657	pps	non-essential	BSU18830
+BG12660	pycA	non-essential	BSU14860
+BG12661	pyk	non-essential	BSU29180
+BG12746	gamA	non-essential	
+BG12796	ydjE	non-essential	BSU06170
+BG12803	ydjL	non-essential	
+BG13020	yhdN	non-essential	BSU09530
+BG13177	manA	non-essential	BSU12020
+BG13204	uxaC	non-essential	BSU12300
+BG13207	yjmD	non-essential	BSU12330
+BG13208	uxuA	non-essential	BSU12340
+BG13212	uxaB	non-essential	BSU12380
+BG13213	uxaA	non-essential	BSU12390
+BG13393	rpe	non-essential	BSU15790
+BG13456	yngE	non-essential	BSU18210
+BG13484	yoaN	non-essential	BSU18670
+BG13826	ytbE	non-essential	BSU29050
+BG13829	ytcB	non-essential	BSU30870
+BG13922	ytsJ	non-essential	BSU29220
+BG14096	yvgN	non-essential	BSU33400
+BG14148	oxdC	non-essential	BSU33240
+BG10113	gcaD	essential	BSU00500
+BG10225	murD	essential	BSU15200
+BG10227	murG	essential	BSU15220
+BG10228	murB	essential	BSU15230
+BG10449	tagD	essential	BSU35740
+BG10450	tagA	essential	BSU35750
+BG10451	tagB	essential	BSU35760
+BG10725	tagF	essential	BSU35720
+BG10973	murC	essential	BSU29790
+BG11191	tagH	essential	BSU35700
+BG11205	tagG	essential	BSU35710
+BG11932	ddl	essential	BSU04560
+BG12084	murF	essential	BSU04570
+BG12684	tagO	essential	BSU35530
+BG11955	murAA	essential	BSU36760
+BG10402	gtaB	non-essential	BSU35670
+BG10548	dltD	non-essential	BSU38530
+BG10549	dltC	non-essential	BSU38520
+BG10550	dltB	non-essential	BSU38510
+BG10551	dltA	non-essential	BSU38500
+BG10724	tagE	non-essential	BSU35730
+BG11192	ggaB	non-essential	BSU35680
+BG11367	ggaA	non-essential	BSU35690
+BG13951	yubB	non-essential	
+BG10407	lytC	non-essential	BSU35620
+BG10414	murAB	non-essential	BSU37100
+BG10455	lytD	non-essential	BSU35780
+BG10825	cwlC	non-essential	BSU17410
+BG11514	cwlD	non-essential	BSU01530
+BG11633	cwlH	non-essential	BSU25710
+BG12688	tuaA	non-essential	BSU35609
+BG12689	tuaB	non-essential	BSU35600
+BG12690	tuaC	non-essential	BSU35590
+BG12691	tuaD	non-essential	BSU35580
+BG12692	tuaE	non-essential	BSU35570
+BG12694	tuaG	non-essential	BSU35550
+BG12695	tuaH	non-essential	BSU35540
+BG13824	ytaG	essential	
+BG13966	yueK	essential	
+BG11638	yqeJ	essential	
+BG10279	hepS	essential	BSU22760
+BG10280	menH	essential	BSU22750
+BG10281	hepT	essential	BSU22740
+BG10552	menA	essential	BSU38490
+BG10683	menD	essential	BSU30820
+BG10686	menB	essential	BSU30800
+BG10687	menE	essential	BSU30790
+BG10694	nadE	essential	BSU03130
+BG10795	dfrA	essential	BSU21810
+BG11711	folD	essential	BSU24310
+BG13847	menC	essential	BSU30780
+BG11098	nasF	non-essential	BSU03280
+BG11789	amhX	non-essential	BSU03010
+BG13115	yitJ	non-essential	
+BG13237	ykkE	non-essential	
+BG13313	ykvK	non-essential	
+BG13361	ylbI	non-essential	
+BG13369	ylbQ	non-essential	
+BG13380	ylnD	non-essential	
+BG13381	ylnE	non-essential	
+BG13382	ylnF	non-essential	
+BG13388	yloI	non-essential	
+BG13965	yueJ	non-essential	
+BG10075	yaaD	non-essential	
+BG10076	yaaE	non-essential	
+BG10137	pabB	non-essential	BSU00740
+BG10138	pabA	non-essential	BSU00750
+BG10139	pabC	non-essential	BSU00760
+BG10140	sul	non-essential	
+BG10141	folB	non-essential	BSU00780
+BG10142	folK	non-essential	BSU00790
+BG10277	mtrA	non-essential	
+BG10322	folC	non-essential	BSU28080
+BG10342	hemC	non-essential	BSU28150
+BG10343	hemD	non-essential	BSU28140
+BG10344	hemB	non-essential	BSU28130
+BG10345	hemL	non-essential	BSU28120
+BG10429	hemE	non-essential	BSU10120
+BG10430	hemH	non-essential	BSU10130
+BG10431	hemY	non-essential	BSU10140
+BG10518	ribD	non-essential	BSU23280
+BG10682	menF	non-essential	BSU30830
+BG10693	thiL	non-essential	BSU05900
+BG10791	tenA	non-essential	BSU11650
+BG10867	nadB	non-essential	BSU27870
+BG10868	nadC	non-essential	BSU27860
+BG11019	dhbA	non-essential	BSU32000
+BG11020	dhbE	non-essential	BSU31980
+BG11241	dhbB	non-essential	BSU31970
+BG11242	dhbC	non-essential	BSU31990
+BG11246	thiC	non-essential	BSU08790
+BG11395	hemN	non-essential	BSU25500
+BG11495	ribC	non-essential	BSU16670
+BG11519	panB	non-essential	BSU22430
+BG11524	bioA	non-essential	
+BG11525	bioB	non-essential	BSU30200
+BG11527	bioF	non-essential	BSU30220
+BG11529	bioW	non-essential	BSU30240
+BG11748	coaA	non-essential	BSU23760
+BG11943	gsaB	non-essential	BSU08710
+BG11969	ribR	non-essential	
+BG12629	nadA	non-essential	BSU27850
+BG12999	hemZ	non-essential	BSU09840
+BG13151	yjbV	non-essential	
+BG13926	accD	essential	BSU29210
+BG10152	yacM	essential	
+BG10153	yacN	essential	
+BG11206	birA	essential	BSU22440
+BG11373	pgsA	essential	BSU16920
+BG11383	accB	essential	BSU24350
+BG11384	accC	essential	BSU24340
+BG11535	fabG	essential	BSU15910
+BG11662	yqfP	essential	
+BG11671	yqfY	essential	
+BG11714	yqiD	essential	
+BG11836	fabD	essential	BSU15900
+BG12557	accA	essential	BSU29200
+BG12575	cdsA	essential	BSU16540
+BG13021	yhdO	essential	
+BG13128	fabF	essential	BSU11340
+BG12089	acpS	essential	BSU04620
+BG10305	bkdB	non-essential	BSU24030
+BG10306	bkdAB	non-essential	BSU24040
+BG10307	bkdAA	non-essential	BSU24050
+BG11725	lpdV	non-essential	BSU24060
+BG11012	pssA	non-essential	BSU02270
+BG11013	psd	non-essential	BSU02290
+BG11611	ugtP	non-essential	BSU21920
+BG12900	yfiX	non-essential	
+BG11040	dgkA	non-essential	BSU25310
+BG10646	glpQ	non-essential	
+BG11225	ycsD	non-essential	BSU04030
+BG11239	acdA	non-essential	BSU37170
+BG11305	ywiE	non-essential	BSU37240
+BG11310	ywjE	non-essential	
+BG11319	mmgA	non-essential	BSU24170
+BG11320	mmgB	non-essential	BSU24160
+BG11321	mmgC	non-essential	BSU24150
+BG11440	ypgA	non-essential	
+BG11946	lcfA	non-essential	BSU28560
+BG12080	ydbM	non-essential	BSU04520
+BG12221	fabL	non-essential	BSU08650
+BG12331	ysiB	non-essential	
+BG12483	ywnE	non-essential	
+BG12496	ywpB	non-essential	
+BG13048	fabHB	non-essential	BSU10170
+BG13057	yhfL	non-essential	
+BG13064	yhfT	non-essential	BSU10360
+BG13127	fabHA	non-essential	BSU11330
+BG13152	fabI	non-essential	BSU11720
+BG13408	uppS	non-essential	BSU16530
+BG13457	yngF	non-essential	BSU18220
+BG13458	yngG	non-essential	BSU18230
+BG13460	yngI	non-essential	BSU18250
+BG13461	yngJ	non-essential	BSU18260
+BG13523	yocJ	non-essential	
+BG14022	yusJ	non-essential	
+BG14023	yusK	non-essential	
+BG14024	yusL	non-essential	
+BG12391	yumC	essential	BSU32110
+BG12398	trxB	essential	BSU34790
+BG10213	ctaA	non-essential	BSU14870
+BG10214	ctaB	non-essential	BSU14880
+BG10215	ctaC	non-essential	BSU14890
+BG10216	ctaD	non-essential	BSU14900
+BG10217	ctaE	non-essential	BSU14910
+BG10218	ctaF	non-essential	BSU14920
+BG10583	qoxA	non-essential	BSU38170
+BG10584	qoxB	non-essential	BSU38160
+BG10585	qoxC	non-essential	BSU38150
+BG10586	qoxD	non-essential	BSU38140
+BG10589	nfrA	non-essential	
+BG10817	atpF	non-essential	BSU36850
+BG10818	atpH	non-essential	BSU36840
+BG10819	atpA	non-essential	BSU36830
+BG10820	atpG	non-essential	BSU36820
+BG10821	atpD	non-essential	BSU36810
+BG10822	atpC	non-essential	BSU36800
+BG10979	fdhD	non-essential	BSU36710
+BG11081	narG	non-essential	BSU37280
+BG11082	narH	non-essential	BSU37270
+BG11083	narJ	non-essential	BSU37260
+BG11094	nasB	non-essential	BSU03320
+BG11095	nasC	non-essential	BSU03310
+BG11325	qcrA	non-essential	BSU22560
+BG11326	qcrB	non-essential	BSU22550
+BG11327	qcrC	non-essential	BSU22540
+BG11925	cydA	non-essential	BSU38760
+BG11926	cydB	non-essential	BSU38750
+BG12018	ycgT	non-essential	BSU03270
+BG12040	ycnD	non-essential	
+BG12294	yrhE	non-essential	BSU27220
+BG12390	yumB	non-essential	BSU32100
+BG12931	yfkO	non-essential	
+BG13183	ctaO	non-essential	BSU12080
+BG13190	yjgC	non-essential	BSU12160
+BG13203	yjlD	non-essential	
+BG13476	yoaE	non-essential	BSU18570
+BG13857	ythA	non-essential	BSU30710
+BG13858	ythB	non-essential	BSU30720
+BG14046	yutJ	non-essential	BSU32200
+BG19003	ldh	non-essential	BSU03050
+BG10092	tmk	essential	BSU00280
+BG10114	prs	essential	BSU00510
+BG10446	adk	essential	BSU01370
+BG13143	yjbN	essential	
+BG13386	gmk	essential	BSU15680
+BG10073	guaB	essential	BSU00090
+BG10131	hprT	essential	BSU00680
+BG10410	pyrG	essential	BSU37150
+BG11004	cmk	essential	BSU22890
+BG11404	nrdE	essential	BSU17380
+BG11405	nrdF	essential	BSU17390
+BG11426	ymaA	essential	
+BG10282	ndk	non-essential	BSU22730
+BG10002	purA	non-essential	BSU40420
+BG10078	dck	non-essential	BSU00140
+BG10079	dgk	non-essential	BSU00150
+BG10082	yaaJ	non-essential	
+BG10419	tdk	non-essential	BSU37060
+BG10477	cdd	non-essential	BSU25300
+BG10481	comEB	non-essential	BSU25580
+BG10647	guaA	non-essential	BSU06360
+BG10700	purE	non-essential	BSU06420
+BG10701	purK	non-essential	BSU06430
+BG10702	purB	non-essential	BSU06440
+BG10703	purC	non-essential	BSU06450
+BG10704	purS	non-essential	BSU06460
+BG10705	purL	non-essential	BSU06480
+BG10706	purQ	non-essential	BSU06470
+BG10707	purF	non-essential	BSU06490
+BG10708	purM	non-essential	BSU06500
+BG10709	purN	non-essential	BSU06510
+BG10710	purH	non-essential	BSU06520
+BG10711	purD	non-essential	BSU06530
+BG10713	pyrB	non-essential	BSU15490
+BG10714	pyrC	non-essential	BSU15500
+BG10717	pyrK	non-essential	BSU15530
+BG10718	pyrD	non-essential	BSU15540
+BG10719	pyrF	non-essential	BSU15550
+BG10720	pyrE	non-essential	BSU15560
+BG10794	thyB	non-essential	BSU21820
+BG10924	purT	non-essential	BSU02230
+BG10945	upp	non-essential	BSU36890
+BG10983	dra	non-essential	
+BG10985	pdp	non-essential	BSU39400
+BG11044	adeC	non-essential	BSU14520
+BG11079	xpt	non-essential	BSU22070
+BG11190	thyA	non-essential	BSU17680
+BG11330	punA	non-essential	
+BG11331	drm	non-essential	BSU23500
+BG12392	guaC	non-essential	BSU32130
+BG12568	apt	non-essential	BSU27610
+BG12581	deoD	non-essential	BSU19630
+BG12665	relA	non-essential	
+BG12675	pyrH	non-essential	BSU16510
+BG12696	udk	non-essential	BSU27330
+BG12930	yfkN	non-essential	BSU07840
+BG13240	guaD	non-essential	BSU13170
+BG13437	yncF	non-essential	BSU17660
+BG13982	pucH	non-essential	BSU32410
+BG13986	pucL	non-essential	BSU32450
+BG13987	pucM	non-essential	BSU32460
+BG13988	pucE	non-essential	BSU32470
+BG13989	pucD	non-essential	BSU32480
+BG13990	pucC	non-essential	BSU32490
+BG13991	pucB	non-essential	BSU32500
+BG13992	pucA	non-essential	BSU32510
+BG11937	fmt	essential	BSU15730
+BG10849	katA	non-essential	BSU08820
+BG11102	katE	non-essential	BSU39050
+BG11940	gbsA	non-essential	BSU31060
+BG11941	gbsB	non-essential	BSU31050
+BG11945	katX	non-essential	BSU38630
+BG10781	spoVFA	non-essential	BSU16730
+BG10782	spoVFB	non-essential	BSU16740
+BG11016	penP	non-essential	BSU18800
+BG11507	ybxI	non-essential	BSU02090
+BG11530	bsaA	non-essential	BSU21900
+BG11676	sodA	non-essential	BSU25020
+BG11885	yxeI	non-essential	BSU39540
+BG10014	ppaC	essential	BSU40550
+BG10183	phoA	non-essential	BSU09410
+BG10658	ssuD	non-essential	BSU08860
+BG10697	phoB	non-essential	BSU05740
+BG14099	yvgQ	non-essential	
+BG14100	yvgR	non-essential	
+BG13378	sat	non-essential	BSU15590
+BG12344	mrpF	essential	BSU31650
+BG12345	mrpD	essential	BSU31630
+BG12355	mrpA	essential	BSU31600
+BG12356	mrpB	essential	BSU31610
+BG12357	mrpC	essential	BSU31620
+BG10186	glpF	non-essential	BSU09280
+BG10198	ptsG	non-essential	BSU13890
+BG10200	ptsH	non-essential	BSU13900
+BG10201	ptsI	non-essential	BSU13910
+BG10316	levD	non-essential	BSU27070
+BG10317	levE	non-essential	BSU27060
+BG10318	levF	non-essential	BSU27050
+BG10319	levG	non-essential	BSU27040
+BG10562	ywbA	non-essential	BSU38390
+BG10573	ywbL	non-essential	
+BG10574	ywbM	non-essential	
+BG10575	ywbN	non-essential	
+BG10577	ywcA	non-essential	BSU38240
+BG10594	ywcJ	non-essential	BSU38060
+BG10595	sacP	non-essential	BSU38050
+BG10645	glpT	non-essential	BSU02140
+BG10650	gntP	non-essential	BSU40070
+BG10656	ssuA	non-essential	BSU08840
+BG10657	ssuC	non-essential	BSU08850
+BG10835	feuA	non-essential	BSU01630
+BG10836	feuB	non-essential	BSU01620
+BG10837	feuC	non-essential	BSU01610
+BG10843	dppB	non-essential	BSU12930
+BG10844	dppC	non-essential	BSU12940
+BG10845	dppD	non-essential	BSU12950
+BG10846	dppE	non-essential	BSU12960
+BG10869	nrgA	non-essential	
+BG10905	blt	non-essential	BSU26590
+BG10933	rocE	non-essential	BSU40330
+BG10934	bglP	non-essential	BSU39270
+BG10984	nupC	non-essential	BSU39410
+BG10991	ykqB	non-essential	
+BG10992	pyrP	non-essential	BSU15480
+BG11009	treP	non-essential	BSU07800
+BG11014	gamP	non-essential	BSU02350
+BG11075	yqxL	non-essential	BSU24740
+BG11080	pbuX	non-essential	BSU22060
+BG11093	nasA	non-essential	BSU03330
+BG11101	hutM	non-essential	BSU39390
+BG11122	iolF	non-essential	BSU39710
+BG11146	citH	non-essential	BSU39060
+BG11150	yxjA	non-essential	
+BG11160	ycbE	non-essential	
+BG11185	yckI	non-essential	
+BG11186	yckJ	non-essential	
+BG11187	yckK	non-essential	
+BG11215	mtlA	non-essential	BSU03981
+BG11328	gabP	non-essential	BSU06310
+BG11338	natA	non-essential	BSU02750
+BG11339	natB	non-essential	BSU02760
+BG11342	narK	non-essential	BSU37320
+BG11348	licC	non-essential	BSU38580
+BG11371	opuAB	non-essential	BSU02990
+BG11372	opuAC	non-essential	BSU03000
+BG11375	pstS	non-essential	BSU24990
+BG11376	pstC	non-essential	BSU24980
+BG11377	pstA	non-essential	BSU24970
+BG11378	pstBA	non-essential	BSU24960
+BG11379	pstBB	non-essential	BSU24950
+BG11399	kdgT	non-essential	BSU22090
+BG11562	ybaR	non-essential	BSU01580
+BG11567	ybbF	non-essential	BSU01680
+BG11590	yhcL	non-essential	
+BG11647	yqeW	non-essential	BSU25420
+BG11727	yqiX	non-essential	
+BG11728	yqiY	non-essential	
+BG11729	yqiZ	non-essential	
+BG11763	mleN	non-essential	BSU23560
+BG11798	alsT	non-essential	BSU18120
+BG11832	citM	non-essential	BSU07610
+BG11848	malP	non-essential	BSU08200
+BG11875	yvfH	non-essential	BSU34190
+BG11878	yxeB	non-essential	BSU39610
+BG11894	yxeR	non-essential	BSU39450
+BG11907	araE	non-essential	BSU33960
+BG11910	araN	non-essential	BSU28750
+BG11911	araP	non-essential	BSU28740
+BG11912	araQ	non-essential	BSU28730
+BG11915	azlC	non-essential	BSU26710
+BG11916	azlD	non-essential	BSU26700
+BG11918	brnQ	non-essential	BSU26690
+BG11931	czcD	non-essential	BSU26650
+BG11938	fruA	non-essential	BSU14400
+BG11958	opuD	non-essential	BSU30070
+BG11980	trkA	non-essential	
+BG12001	lctP	non-essential	BSU03060
+BG12002	mdr	non-essential	BSU03070
+BG12013	ycgO	non-essential	
+BG12034	yclN	non-essential	BSU03800
+BG12035	yclO	non-essential	BSU03810
+BG12036	yclP	non-essential	BSU03820
+BG12037	yclQ	non-essential	BSU03830
+BG12046	ycnJ	non-essential	BSU03950
+BG12065	mntH	non-essential	BSU04360
+BG12075	dctP	non-essential	BSU04470
+BG12148	ydfA	non-essential	BSU05340
+BG12190	ydhM	non-essential	
+BG12191	ydhN	non-essential	
+BG12192	ydhO	non-essential	
+BG12232	ssuB	non-essential	BSU08830
+BG12279	yraO	non-essential	BSU26860
+BG12296	yrhG	non-essential	BSU27200
+BG12343	mrpG	non-essential	BSU31660
+BG12353	maeN	non-essential	BSU31580
+BG12369	yugO	non-essential	BSU31322
+BG12411	yvdB	non-essential	BSU34660
+BG12416	yvdG	non-essential	
+BG12417	yvdH	non-essential	
+BG12418	yvdI	non-essential	
+BG12436	yvfK	non-essential	
+BG12437	yvfL	non-essential	
+BG12438	yvfM	non-essential	
+BG12492	ywoE	non-essential	
+BG12520	ywrA	non-essential	BSU36130
+BG12521	ywrB	non-essential	BSU36120
+BG12527	ywrK	non-essential	BSU36030
+BG12546	yxkJ	non-essential	
+BG12548	yxlA	non-essential	BSU38710
+BG12564	amyC	non-essential	BSU30290
+BG12573	braB	non-essential	BSU29600
+BG12625	msmE	non-essential	BSU30270
+BG12641	opuE	non-essential	BSU06660
+BG12750	ybgF	non-essential	BSU02400
+BG12752	ybgH	non-essential	
+BG12763	ycdH	non-essential	
+BG12764	ycdI	non-essential	
+BG12765	yceA	non-essential	
+BG12795	gutP	non-essential	BSU06160
+BG12802	ydjK	non-essential	
+BG12811	pbuG	non-essential	BSU06370
+BG12849	yesO	non-essential	BSU06970
+BG12850	yesP	non-essential	
+BG12851	yesQ	non-essential	
+BG12876	yfhA	non-essential	BSU08460
+BG12901	yfiY	non-essential	BSU08440
+BG12902	yfiZ	non-essential	BSU08450
+BG12913	yfjQ	non-essential	BSU08000
+BG12922	yfkE	non-essential	BSU07920
+BG12941	nagP	non-essential	BSU07700
+BG12951	yflS	non-essential	BSU07570
+BG12954	yfmC	non-essential	BSU07520
+BG12955	yfmD	non-essential	BSU07510
+BG12956	yfmE	non-essential	BSU07500
+BG12957	yfmF	non-essential	BSU07490
+BG12983	yhaG	non-essential	
+BG12997	yhaU	non-essential	BSU09850
+BG13044	nhaC	non-essential	BSU09680
+BG13075	glcP	non-essential	BSU10520
+BG13100	yisU	non-essential	BSU10870
+BG13146	yjbQ	non-essential	BSU11640
+BG13176	manP	non-essential	BSU12010
+BG13210	exuT	non-essential	BSU12360
+BG13226	pit	non-essential	BSU12840
+BG13256	ykoK	non-essential	
+BG13275	ykrM	non-essential	
+BG13325	ykvW	non-essential	
+BG13377	cysP	non-essential	BSU15580
+BG13384	yloB	non-essential	BSU15650
+BG13473	yoaB	non-essential	BSU18540
+BG13529	yocS	non-essential	BSU19350
+BG13535	yodF	non-essential	BSU19580
+BG13554	yojA	non-essential	BSU19520
+BG13784	yrbD	non-essential	BSU27810
+BG13851	mntA	non-essential	BSU30770
+BG13852	mntB	non-essential	BSU30760
+BG13853	mntC	non-essential	BSU30750
+BG13854	mntD	non-essential	BSU30740
+BG13864	ytiP	non-essential	
+BG13884	ytmJ	non-essential	
+BG13885	ytmK	non-essential	
+BG13886	ytmL	non-essential	
+BG13887	ytmM	non-essential	
+BG13891	ytnA	non-essential	BSU30530
+BG13912	ytrB	non-essential	BSU30450
+BG13913	ytrC	non-essential	BSU30440
+BG13914	ytrD	non-essential	BSU30430
+BG13915	ytrE	non-essential	BSU30420
+BG13916	ytrF	non-essential	BSU30410
+BG13943	yuaA	non-essential	
+BG13956	yubG	non-essential	
+BG13984	pucJ	non-essential	BSU32430
+BG13985	pucK	non-essential	BSU32440
+BG14013	yusA	non-essential	
+BG14014	yusB	non-essential	
+BG14015	yusC	non-essential	
+BG14047	yutK	non-essential	BSU32180
+BG14093	yvgK	non-essential	BSU33370
+BG14094	yvgL	non-essential	BSU33380
+BG14095	yvgM	non-essential	BSU33390
+BG14098	yvgP	non-essential	
+BG14105	yvgW	non-essential	
+BG14106	yvgX	non-essential	
+BG14107	yvgY	non-essential	
+BG14141	yvrA	non-essential	BSU33160
+BG14142	yvrB	non-essential	BSU33170
+BG14143	yvrC	non-essential	BSU33180
+BG14154	yvsH	non-essential	
+BG14181	mrpE	non-essential	BSU31640
