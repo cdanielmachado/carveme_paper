@@ -1,5 +1,7 @@
 # CarveMe paper supplement
 
-This repository contains the data and scripts for the paper: Machado et al, "Fast automated reconstruction of genome-scale metabolic models for microbial species and communities", BioRxiv (2018). 
+This repository contains the data and scripts from the paper: 
 
-https://www.biorxiv.org/content/early/2018/01/12/223198
+D. Machado et al, "Fast automated reconstruction of genome-scale metabolic models for microbial species and communities", Nucleic Acids Research, gky537, 2018. 
+
+DOI: https://doi.org/10.1093/nar/gky537
